@@ -1,0 +1,59 @@
+Array.from() - creates a new, shallow-copied Array instance from an array-like or iterable object.
+
+Array.isArray() - determines whether the passed value is an Array.
+
+Array.of() - creates a new Array instance with a variable number of arguments, regardless of number or type of the arguments.
+
+concat() - returns a new array comprised of this array joined with other array(s) and/or value(s).
+
+copyWithin() - shallow copies part of an array to another location in the same array and returns it without modifying its length.
+
+entries() - returns a new Array Iterator object that contains the key/value pairs for each index in the array.
+
+every() - tests whether all elements in the array pass the test implemented by the provided function.
+
+fill() - fills all the elements of an array from a start index to an end index with a static value.
+
+filter() - creates a new array with all elements that pass the test implemented by the provided function.
+
+find() - returns the value of the first element in the array that satisfies the provided testing function.
+
+findIndex() - returns the index of the first element in the array that satisfies the provided testing function.
+
+forEach() - executes a provided function once for each array element.
+
+includes() - determines whether an array includes a certain value among its entries, returning true or false as appropriate.
+
+indexOf() - returns the first index at which a given element can be found in the array, or -1 if it is not present.
+
+join() - joins all elements of an array into a string.
+
+keys() - returns a new Array Iterator that contains the keys for each index in the array.
+
+lastIndexOf() - returns the last index at which a given element can be found in the array, or -1 if it is not present.
+
+map() - creates a new array with the results of calling a provided function on every element in this array.
+
+pop() - removes the last element from an array and returns that element.
+
+push() - adds one or more elements to the end of an array and returns the new length of the array.
+
+reduce() - applies a function against an accumulator and each value of the array (from left-to-right) to reduce it to a single value.
+
+reduceRight() - applies a function against an accumulator and each value of the array (from right-to-left) to reduce it to a single value.
+
+reverse() - reverses an array in place.
+
+shift() - removes the first element from an array and returns that element.
+
+slice() - returns a shallow copy of a portion of an array into a new array object.
+
+some() - tests whether some element in the array passes the test implemented by the provided function.
+
+sort() - sorts the elements of an array in place and returns the array.
+
+splice() - adds and/or removes elements from an array.
+
+toString() - returns a string representing the array and its elements.
+
+unshift() - adds one or more
